@@ -1,0 +1,103 @@
+Generate a mobile application using an AI-powered app builder, designed to connect men for collaborative business endeavors and wealth generation. The app should include the following features:
+
+Core Functionality:
+
+User Profiles:
+
+Implement user registration and login using a secure authentication method (e.g., Firebase Authentication).
+
+Create a profile system with fields for:
+
+Name, location, skills (using a tagging system), experience, mission interests (categories like real estate, tech, etc.), financial resources, and investment goals.
+
+Include image upload for profile pictures.
+
+Enable location services for location-based matching.
+
+Mission Posting and Discovery:
+
+Allow users to create and post "Mission" proposals with details like mission description, required skills, budget, and potential returns.
+
+Implement a search and filtering system based on skills, mission categories, location, and keywords.
+
+Display mission listings with relevant information and user profiles of mission creators.
+
+Team Collaboration:
+
+Enable direct messaging and group chat functionalities for communication between users.
+
+Provide a system for users to form teams and collaborate on missions.
+
+Integrate basic mission management tools, such as task lists and progress tracking.
+
+Enable document sharing within mission groups.
+
+Financial Features:
+
+Implement a section for users to list and explore investment opportunities related to missions.
+
+Enable users to track mission budgets and expenses.
+
+Include links to financial literacy resources.
+
+Networking and Community:
+
+Create a forum for general discussions and networking.
+
+Implement a user rating and review system.
+
+Create an event calendar.
+
+Create a section for mission success stories.
+
+Gamification:
+
+Implement a system of skill badges and user levels.
+
+Incorporate "Mission Quests" to encourage exploration of mission listings.
+
+Display a "Mission Match Score" to show compatibility between users and missions.
+
+Create leaderboards for successful mission participation.
+
+Implement an in-app currency and achievement system.
+
+Admin Panel:
+
+Create a separate, secure admin panel with the ability to:
+
+Manage users (create, edit, delete, suspend).
+
+Manage missions (create, edit, delete, approve/disapprove).
+
+Manage categories and tags (for skills and mission interests).
+
+View and manage financial data (budgets, transactions).
+
+Manage community content (forum posts, reviews, success stories).
+
+Manage events on the event calendar.
+
+Control gamification elements (badges, levels, currencies).
+
+Configure app settings.
+
+Access logs and analytics.
+
+User Interface (UI) and User Experience (UX):
+
+Design a clean and intuitive user interface with a focus on ease of navigation.
+
+Implement a visually appealing design that reflects a professional and trustworthy environment.
+
+Ensure the app is responsive and works seamlessly on both Android and iOS devices.
+
+Include a user-friendly onboarding process.
+
+Additional Considerations:
+
+Implement security measures to protect user data and privacy.
+
+Include a reporting system for inappropriate content or behavior.
+
+Create a help and support section.
